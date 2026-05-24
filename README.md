@@ -1,6 +1,6 @@
-# Building a Large Language Model (LLM)
+# Building a Large Language Model (LLM) for Crypto Investment
 
-This project focuses on the step-by-step process of building a Large Language Model from scratch.
+This project focuses on the step-by-step process of building a Large Language Model specifically tailored for crypto investment analysis and decision-making.
 
 ## Current Progress
 
